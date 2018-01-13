@@ -1,4 +1,4 @@
-#DeepLens Opencv samples 
+# DeepLens Opencv samples 
 
 ### This repository contains examples on how to access camera in DeepLens and run OpenCV using the frame grabbed from the camera 
 
@@ -30,9 +30,11 @@ if there is any application running in DeepLens deployed through AWS it needs to
 ## Stop the service 
 
 ````
-sudo service greengrassd stop  ````
+sudo service greengrassd stop  
 
-#Running the samples 
+````
+
+# Running the samples 
 
 if you are logged in through remopte ssh make sure you are logged in with -X or -Y (trusted) options 
 
