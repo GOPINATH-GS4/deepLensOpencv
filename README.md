@@ -1,4 +1,4 @@
-# DeepLens Opencv samples 
+# DeepLens OpenCV samples 
 
 ### This repository contains examples on how to access camera in DeepLens and run OpenCV using the frame grabbed from the camera 
 
